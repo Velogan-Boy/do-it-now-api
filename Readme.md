@@ -28,6 +28,23 @@
 
 -  **Documentation**: Documented the API endpoints using Postman.
 
+## Technologies Used
+
+-  Node.js
+-  Express.js
+-  PostgreSQL
+-  Prisma ORM
+-  JSON Web Token (JWT)
+-  Joi Validation
+-  Bcrypt
+-  Cors
+-  Dotenv-Flow
+-  Nodemon
+
+## Database Schema
+
+![Database Schema](./docs/er-diagram.jpg)
+
 ## Setup Instructions
 
 1. Clone the repository to your local machine.
@@ -54,18 +71,7 @@ npm run dev
 
 6. The server will be running on `http://localhost:5000`.
 
-## Technologies Used
 
--  Node.js
--  Express.js
--  PostgreSQL
--  Prisma ORM
--  JSON Web Token (JWT)
--  Joi Validation
--  Bcrypt
--  Cors
--  Dotenv-Flow
--  Nodemon
 
 ## Router Configuration
 
