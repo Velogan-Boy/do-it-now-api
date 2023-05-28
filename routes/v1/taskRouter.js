@@ -25,7 +25,7 @@ router
 .get('/:id', tokenAuth, getTaskByIdController)
 .post('/', tokenAuth, validateCreateTask, createTaskController)
 .put('/:id', tokenAuth, validateUpdateTask, updateTaskByIdController)
-.patch('/:id/complete', tokenAuth, completeTaskByIdController)
+.patch('/:id/compete', tokenAuth, completeTaskByIdController)
 .delete('/:id', tokenAuth, deleteTaskByIdController);
 
    
