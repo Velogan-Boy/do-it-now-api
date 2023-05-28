@@ -218,3 +218,7 @@ npm run dev
 ## Postman API Documentation
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/17684559/2s93m7X2TR#5d6cf873-cf68-425b-a00e-1f4811faeb99)
+
+## Live Preview
+
+ [![Run in Browser](https://render.com/images/deploy-to-render-button.svg)](https://do-it-now-api.onrender.com/)
