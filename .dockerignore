@@ -1,0 +1,4 @@
+docs/
+.env.development
+.env.staging
+Readme.md
